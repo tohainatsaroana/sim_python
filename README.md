@@ -1,4 +1,4 @@
-pySim - Read, Write and Browse Programmable SIM/USIM Cards
+## pySim - Read, Write and Browse Programmable SIM/USIM Cards
 ====================================================
 Installation
 ------------
@@ -14,9 +14,9 @@ Please install the following dependencies:
  - bidict
  - gsm0338
 
-# Install
+###  Install
 yay -Sy python-pysim-git
 
-# Uninstall
+### Uninstall
 sudo pacman -Rs python-pysim-git
 ```
